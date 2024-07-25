@@ -1,4 +1,5 @@
 Proyecto Farmacia
+
 Este proyecto es un sistema de gestión para una farmacia, que incluye funcionalidades para manejar la base de datos de productos, ventas y clientes.
 
 Contenido del Repositorio
@@ -6,6 +7,7 @@ farmaciaDB.sql: Script para la creación de la base de datos.
 farmaciaDBdata.sql: Script para la inserción de datos en la base de datos.
 nbproject: Carpeta del proyecto NetBeans.
 src: Carpeta que contiene el código fuente del proyecto.
+
 Requisitos
 Para ejecutar este proyecto, necesitarás:
 

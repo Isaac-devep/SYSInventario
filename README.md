@@ -1,4 +1,4 @@
-Aquí tienes un README estructurado para tu proyecto de gestión de farmacia en Java:
+Aquí tienes un README estructurado para tu proyecto de gestión de farmacia en C#:
 
 ```markdown
 # Sistema de Gestión para Farmacia
